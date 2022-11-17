@@ -45,7 +45,6 @@ asset_library/available_urls = {
 "godotengine.org (Official)": "https://godotengine.org/asset-library/api"
 }
 asset_library/use_threads = true
-projects/::home::trystan::devp::Tipperary-Climber = "/home/trystan/devp/Tipperary-Climber"
 export/android/android_sdk_path = ""
 export/android/debug_keystore = ""
 export/android/debug_keystore_user = "androiddebugkey"
